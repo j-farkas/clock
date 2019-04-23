@@ -7,7 +7,9 @@ namespace ProjectName{
   {
     public static void Main()
     {
+      LeetspeakTranslator userInput = new LeetspeakTranslator("Don't you slove these 'String' exercises? I do!");
 
+      userInput.DisplayWords();
     }
   }
 }

@@ -8,12 +8,20 @@ namespace ProjectName
 
           public LeetspeakTranslator(string words)
           {
-            InputWords = words;
             char[] inputCharacters = words.ToCharArray();
             for (int i = 0; i < inputCharacters.Length; i++)
             {
+              if (inputCharacters[i] == 's'){
+                if(i == 0){
+
+                }else if(inputCharacters[i-1] == ' ') {
+                }
+              } else {
               inputCharacters[i]=ReplaceLetter(inputCharacters[i]);
+              }
             }
+
+            InputWords = string.Join("",inputCharacters);
           }
 
           public char ReplaceLetter(char characters)
@@ -24,12 +32,20 @@ namespace ProjectName
             if(characters == 'o') {
               return '0';
             }
-
+            if(characters == 'I') {
+              return '1';
+            }
+            if(characters == 't') {
+              return '7';
+            }
+            if(characters == 's') {
+              return 'z';
+            }
             return characters;
           }
-
-
+        public void DisplayWords()
+        {
+          Console.WriteLine(InputWords);
+        }
       }
-
-
   }
