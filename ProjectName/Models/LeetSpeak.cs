@@ -18,7 +18,9 @@ namespace ProjectName
 
           public char ReplaceLetter(char characters)
           {
-
+            if(characters == 'e') {
+              return '3';
+            }
             return characters;
           }
 
