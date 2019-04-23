@@ -15,7 +15,10 @@ namespace ProjectName
                 if(i == 0){
 
                 }else if(inputCharacters[i-1] == ' ') {
-                }
+                }else {
+                  inputCharacters[i]=ReplaceLetter(inputCharacters[i]);
+              }
+
               } else {
               inputCharacters[i]=ReplaceLetter(inputCharacters[i]);
               }
