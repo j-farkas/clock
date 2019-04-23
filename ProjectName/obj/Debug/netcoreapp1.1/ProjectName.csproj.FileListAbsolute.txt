@@ -5,3 +5,10 @@
 /Users/Guest/Desktop/ping-pong/ProjectName/bin/Debug/netcoreapp1.1/ProjectName.pdb
 /Users/Guest/Desktop/ping-pong/ProjectName/obj/Debug/netcoreapp1.1/ProjectName.dll
 /Users/Guest/Desktop/ping-pong/ProjectName/obj/Debug/netcoreapp1.1/ProjectName.pdb
+/Users/Guest/Desktop/leetspeak/ProjectName/bin/Debug/netcoreapp1.1/ProjectName.deps.json
+/Users/Guest/Desktop/leetspeak/ProjectName/obj/Debug/netcoreapp1.1/ProjectName.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/leetspeak/ProjectName/obj/Debug/netcoreapp1.1/ProjectName.AssemblyInfo.cs
+/Users/Guest/Desktop/leetspeak/ProjectName/obj/Debug/netcoreapp1.1/ProjectName.dll
+/Users/Guest/Desktop/leetspeak/ProjectName/obj/Debug/netcoreapp1.1/ProjectName.pdb
+/Users/Guest/Desktop/leetspeak/ProjectName/bin/Debug/netcoreapp1.1/ProjectName.dll
+/Users/Guest/Desktop/leetspeak/ProjectName/bin/Debug/netcoreapp1.1/ProjectName.pdb

@@ -7,10 +7,7 @@ namespace ProjectName{
   {
     public static void Main()
     {
-      PingPong numberInput = new PingPong(35);
 
-
-    numberInput.DisplayString();
     }
   }
 }

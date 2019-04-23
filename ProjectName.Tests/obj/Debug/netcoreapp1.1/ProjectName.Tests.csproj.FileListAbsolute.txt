@@ -12,3 +12,17 @@
 /Users/Guest/Desktop/ping-pong/ProjectName.Tests/bin/Debug/netcoreapp1.1/ProjectName.pdb
 /Users/Guest/Desktop/ping-pong/ProjectName.Tests/obj/Debug/netcoreapp1.1/ProjectName.Tests.dll
 /Users/Guest/Desktop/ping-pong/ProjectName.Tests/obj/Debug/netcoreapp1.1/ProjectName.Tests.pdb
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/ProjectName.Tests.deps.json
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/ProjectName.Tests.runtimeconfig.json
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/ProjectName.Tests.runtimeconfig.dev.json
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/obj/Debug/netcoreapp1.1/ProjectName.Tests.dll
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/obj/Debug/netcoreapp1.1/ProjectName.Tests.pdb
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/obj/Debug/netcoreapp1.1/ProjectName.Tests.csproj.CoreCompileInputs.cache
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/obj/Debug/netcoreapp1.1/ProjectName.Tests.AssemblyInfo.cs
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/ProjectName.Tests.dll
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/ProjectName.Tests.pdb
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/ProjectName.dll
+/Users/Guest/Desktop/leetspeak/ProjectName.Tests/bin/Debug/netcoreapp1.1/ProjectName.pdb
