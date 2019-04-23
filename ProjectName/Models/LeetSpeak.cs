@@ -21,6 +21,10 @@ namespace ProjectName
             if(characters == 'e') {
               return '3';
             }
+            if(characters == 'o') {
+              return '0';
+            }
+
             return characters;
           }
 

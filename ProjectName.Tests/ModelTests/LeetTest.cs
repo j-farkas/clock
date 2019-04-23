@@ -19,5 +19,11 @@ namespace ProjectName.Tests
       LeetspeakTranslator testLeetspeakTranslator = new LeetspeakTranslator("Don't you love these 'String' exercises? I do!");
       Assert.AreEqual('3', testLeetspeakTranslator.ReplaceLetter('e'));
     }
+    [TestMethod]
+    public void ReplaceLeet_AnyLetter_ReturnZero()
+    {
+      LeetspeakTranslator testLeetspeakTranslator = new LeetspeakTranslator("Don't you love these 'String' exercises? I do!");
+      Assert.AreEqual('0', testLeetspeakTranslator.ReplaceLetter('o'));
+    }
   }
 }
